@@ -56,7 +56,7 @@ var assetLoader = (function() {
     'backdrop'      : 'imgs/backdrop.png',
     'backdrop2'     : 'imgs/backdrop_ground.png',
     'grass'         : 'imgs/grass.png',
-    'avatar_normal' : 'imgs/normal_walk.png',
+    'avatar_normal' : 'https://i.pinimg.com/originals/f7/ce/d9/f7ced9005bd1d74caa089d70d0b52e62.gif',
     'water'         : 'imgs/water.png',
     'grass1'        : 'imgs/grassMid1.png',
     'grass2'        : 'imgs/grassMid2.png',
